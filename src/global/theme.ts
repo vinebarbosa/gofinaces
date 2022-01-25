@@ -6,10 +6,10 @@ export default {
     
     secondary_ligth: 'rgba(255, 135, 44, 0.3)',
     success: '#12A454',
-    success_ligth: 'rgba(18, 164, 84, 0.5)',
+    success_ligth: 'rgba(18, 164, 84, 0.2)',
 
     attention: '#E83F5B',
-    attention_ligth: 'rgba(232, 63, 91, 0.5)',
+    attention_ligth: 'rgba(232, 63, 91, 0.2)',
 
     shape: '#FFF',
     title: '#363F5F',
